@@ -7,6 +7,6 @@
 
 1. En la página oficial https://cran.r-project.org/ podemos buscarlo y descargarlo de acuerdo a nuestro sistema operativo(GNU/Linux, Mac OS o Windows ).  Otra opción es dar clic [aquí](https://cran.r-project.org/bin/windows/base/R-3.5.0-win.exe) para descargarlo directamente si tu sistema operativo es Windows).
 
-2. Rstudio es un IDE (Integrated Development Enviroment), en español un "Ambiente de desarrollo integrado" esto nos proporciona una interface "más gráfica" para trabajar con el lenguaje R. La página oficial para su descarga es https://www.rstudio.com/ Si tu sistema es Windows puedes usar [éste enlace](https://download1.rstudio.org/RStudio-0.99.489.exe) directo para su descarga.    
+2. Rstudio es un IDE (Integrated Development Enviroment), en español un "Ambiente de desarrollo integrado" esto nos proporciona una interface "más gráfica" para trabajar con el lenguaje R. La página oficial para su descarga es https://www.rstudio.com/ Si tu sistema es Windows puedes usar [éste enlace](https://download1.rstudio.org/RStudio-1.1.453.exe) directo para su descarga.    
 
 3. Acá encontrarás un [vídeo](https://www.youtube.com/watch?v=5ZbjUEg4a1g) si deseas guiarte en el proceso.
