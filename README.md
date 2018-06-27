@@ -9,7 +9,7 @@
 
 2. Rstudio es un IDE (Integrated Development Enviroment), en español un "Ambiente de desarrollo integrado" esto nos proporciona una interface "más gráfica" para trabajar con el lenguaje R. La página oficial para su descarga es https://www.rstudio.com/ Si tu sistema es Windows puedes usar [éste enlace](https://download1.rstudio.org/RStudio-1.1.453.exe) directo para su descarga.    
 
-3. Acá encontrarás un [vídeo](https://www.youtube.com/watch?v=5ZbjUEg4a1g) si deseas guiarte en el proceso (para Windows).
+3. Acá encontrarás un [vídeo](https://www.youtube.com/watch?v=5ZbjUEg4a1g) si deseas guiarte en el proceso (en Windows).
 
 ---
 
