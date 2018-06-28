@@ -8,6 +8,6 @@
 
 1. [Introducciòn a R en español por el proyecto r-cran](https://cran.r-project.org/doc/contrib/R-intro-1.1.0-espanol.1.pdf)
 2. [Introducción super básica en español](http://www.fundacionsadosky.org.ar/mailings/pcd/intro.html)
-3. https://www.datacamp.com/courses/free-introduction-to-r
-4. https://www.coursera.org/courses?query=r 
-5. https://www.udemy.com/r-basics/
+3. [R por datacamp (en inglés)](https://www.datacamp.com/courses/free-introduction-to-r)
+4. [En coursera.org (en inglés)](https://www.coursera.org/courses?query=r) 
+5. [R-basics (en inglés)](https://www.udemy.com/r-basics/)
