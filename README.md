@@ -14,3 +14,10 @@
 ---
 
 Nota: Para ejecurtar R, si usas MacOS necesitarás el complemento Xquartz (dentro de la página de R debajo de la liga para descargar R para Mac esta la liga para descargar Xquatz)
+
+## Instalar paquetes recomendados dentro de R
+
+Dentro de nuestra sesión de R ejecutamos los siguientes comandos:
+```install.packages(c("ggplot2","gplots","foreign","dplyr")) ```  
+
+Los dos primeros paquetes nos permiritán aumentar funcionalidades en graficación, el tercero importar datos de otros formatos (excel, spss, ...) y el ùltimo la manipulaciòn de data.frames.
