@@ -12,7 +12,7 @@
 3. Acá encontrarás un [vídeo](https://www.youtube.com/watch?v=5ZbjUEg4a1g) si deseas guiarte en el proceso (en Windows).
 
 
-## Instalar paquetes recomendados dentro de R
+## Instalar algunos paquetes recomendados dentro de R
 
 Dentro de nuestra sesión de R ejecutamos los siguientes comandos:
 ```install.packages(c("ggplot2","gplots","foreign","dplyr")) ```  
