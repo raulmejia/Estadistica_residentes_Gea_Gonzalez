@@ -39,7 +39,7 @@ mydf
 ############################
 
 BC_Perou <- read.table(file = "/media/rmejia/ADATA-HD710/boba-bk-postsismo/rmejia/Documents/Otros_Proyectos_academicos/Clases_estadistica_residentes_GEA_GONZALEZ/Practicas/Practica2/Data/BC_CharlesPerou_selected_cols.tsv",sep="\t",header=TRUE,stringsAsFactors = FALSE)
-# Por ejemplo en mi computadora (Sistema Operativo GNU/Linux) es file= "/media/rmejia/ADATA-HD710/boba-bk-postsismo/rmejia/Documents/Otros_Proyectos_academicos/Clases_estadistica_residentes_GEA_GONZALEZ/Practicas/Practica1/dataSubt.tsv" 
+# Ojo: debes escribir la ruta de TU archivo en TU computadora, la dirección anterior file = "/media/..." correspondío a la ruta de mi archivo en mi computadora. 
 # Nota:  Para los usuarios de Windows: Ojo a veces windows usa las diagonales invertidas "\" por ejemplo "\tu\ruta" en lugar de "/tu/ruta" 
 
 # --- exploración inicial
